@@ -12,7 +12,7 @@ You must install the following components:
 
  - Ubuntu 20.04
 
- - GStreamer 1.16.3 [install]
+ - GStreamer 1.16.3 [install](https://github.com/Mr-MeerMoazzam/Nvidia-DeepStream/blob/main/Installation%20of%20DeepStream%20SDK%20on%20PC/readme.md#install-dependencies)
 
  - NVIDIA driver 525.85.12 [install](https://docs.nvidia.com/metropolis/deepstream/dev-guide/text/DS_Quickstart.html#install-nvidia-driver-525-85-12)
 
