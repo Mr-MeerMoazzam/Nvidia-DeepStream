@@ -2,7 +2,7 @@
 # Run the TAO Models in DeepStream
 
 Here we will describe the procedure to download and run the TAO pre-trained models in DeepStream.
-Before running the TAO models in DeepStream you must have DeepStream SDK in your system. If you don't have then [install it] 
+Before running the TAO models in DeepStream you must have DeepStream SDK in your system. If you don't have then [install it](https://github.com/Mr-MeerMoazzam/Nvidia-DeepStream/tree/main/Installation%20of%20DeepStream%20SDK%20on%20PC) 
 ## Running the TAO Pretrained Purpose-Built Models in DeepStream
 
 Firstly we will run the TAO Pretrained Purpose-Built models in DeepStream.
