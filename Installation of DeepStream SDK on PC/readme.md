@@ -37,7 +37,8 @@ To remove DeepStream 4.0 or later installations:
 2. Set PREV_DS_VER as 4.0
 3. Run the following script as `sudo ./uninstall.sh`
 
-##Install Dependencies
+## Install Dependencies
+
 Before installing the DeepStream SDK, use the following instructions to instal the required packages:
 ```bash
 sudo apt install \
