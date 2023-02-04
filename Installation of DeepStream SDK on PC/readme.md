@@ -101,3 +101,8 @@ deepstream-app -c <path_to_config_file>
 ```
 Where <path_to_config_file> is the pathname of one of the reference application’s configuration files, found in `configs/deepstream-app.
 
+
+
+## Acknowledgements
+
+ - [Official Documentation](https://docs.nvidia.com/metropolis/deepstream/dev-guide/text/DS_Quickstart.html#install-cuda-toolkit-11-)
