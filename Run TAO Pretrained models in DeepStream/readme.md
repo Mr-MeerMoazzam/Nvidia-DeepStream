@@ -72,7 +72,7 @@ config-file=config_infer_primary_yolov4.txt
 
 ## Running the TAO (Custom trained) Models  in DeepStream
 
-Now we will run the TAO models trained on our custom data in DeepStream. But before that you have to download the config files and models.
+Now we will run the TAO models trained on our custom data in DeepStream. But before that you have to download the config files [here](https://github.com/Mr-MeerMoazzam/Nvidia-DeepStream/blob/main/Run%20TAO%20Pretrained%20models%20in%20DeepStream/readme.md#download-the-config-files) and models [here](https://github.com/Mr-MeerMoazzam/Nvidia-DeepStream/blob/main/Run%20TAO%20Pretrained%20models%20in%20DeepStream/readme.md#download-the-config-files).
 
 We have two types of files on the path below:
 ```bash
